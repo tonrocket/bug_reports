@@ -12,3 +12,7 @@ Please proceed to Issues section to create one
 Our project has test version that contains same code as main project
 
 You can find it here: https://t.me/ton_rocket_test_bot
+
+It works on tonwhales sandbox environment: https://tondev.org/sandbox and works with their dev wallet. See here for details: https://developers.tonhub.com/docs/sandbox
+
+Also you can find test money in our developers support chat: https://t.me/+FOK8m7q86pg5MjNi 
